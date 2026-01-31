@@ -21,10 +21,16 @@
         "grid_item_width": "collections--full",
         "grid_gap": 20
       }
+    },
+    "custom_section_AzPfi9": {
+      "type": "custom-section",
+      "name": "t:general.custom_section",
+      "settings": {}
     }
   },
   "order": [
     "main",
-    "collections_CG4cAD"
+    "collections_CG4cAD",
+    "custom_section_AzPfi9"
   ]
 }
